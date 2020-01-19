@@ -1,0 +1,9 @@
+﻿  GUI.cpp
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(42): warning C4091: '__declspec(dllimport)': ignored on left of 'Fraction' when no variable is declared
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(53): warning C4091: '__declspec(dllimport)': ignored on left of 'FractionException' when no variable is declared
+  GUI.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  GUI.vcxproj -> C:\Users\Leon\source\repos\fraction_14lz21\Debug\GUI.exe
+  File not found - fraction_14lz21.dll
+  0 File(s) copied
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: The command "xcopy /y /d "..\..\fraction_14lz21\Debug\fraction_14lz21.dll" "C:\Users\Leon\source\repos\fraction_14lz21\Debug\"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(138,5): error MSB3073: :VCEnd" exited with code 4.

@@ -1,0 +1,55 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (fraction_14lz21.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  fraction_14awes.cpp
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(42): warning C4091: '__declspec(dllimport)': ignored on left of 'Fraction' when no variable is declared
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(53): warning C4091: '__declspec(dllimport)': ignored on left of 'FractionException' when no variable is declared
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(11): warning C4273: 'Fraction::Fraction': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(17): note: see previous definition of '{ctor}'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(17): warning C4273: 'Fraction::Fraction': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(19): note: see previous definition of '{ctor}'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(23): warning C4273: 'Fraction::Fraction': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(21): note: see previous definition of '{ctor}'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(33): warning C4273: 'Fraction::normalize': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(24): note: see previous definition of 'normalize'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(67): warning C4273: 'Fraction::numerator': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(34): note: see previous definition of 'numerator'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(72): warning C4273: 'Fraction::denominator': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(32): note: see previous definition of 'denominator'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(77): warning C4273: 'operator -': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(57): note: see previous definition of '-'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(82): warning C4273: 'Fraction::operator ++': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(26): note: see previous definition of '++'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(88): warning C4273: 'Fraction::operator ++': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(28): note: see previous definition of '++'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(95): warning C4273: 'Fraction::operator +=': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(30): note: see previous definition of '+='
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(103): warning C4273: 'operator +': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(61): note: see previous definition of '+'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(109): warning C4273: 'operator -': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(59): note: see previous definition of '-'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(115): warning C4273: 'operator *': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(63): note: see previous definition of '*'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(119): warning C4273: 'operator /': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(65): note: see previous definition of '/'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(123): warning C4273: 'operator ==': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(68): note: see previous definition of '=='
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(127): warning C4273: 'operator !=': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(71): note: see previous definition of '!='
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(131): warning C4273: 'operator >': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(73): note: see previous definition of '>'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(143): warning C4273: 'operator >=': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(72): note: see previous definition of '>='
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(155): warning C4273: 'operator <': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(69): note: see previous definition of '<'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(168): warning C4273: 'operator <=': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(70): note: see previous definition of '<='
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(180): warning C4273: 'FractionException::FractionException': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(49): note: see previous definition of '{ctor}'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(186): warning C4273: 'FractionException::what': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(50): note: see previous definition of 'what'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(192): warning C4273: 'operator <<': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(76): note: see previous definition of '<<'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(197): warning C4273: 'operator >>': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(78): note: see previous definition of '>>'
+c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.cpp(219): warning C4273: 'GCD': inconsistent dll linkage
+  c:\users\leon\source\repos\fraction_14lz21\fraction_14lz21\fraction_14awes.h(81): note: see previous definition of 'GCD'
+  fraction_14lz21.vcxproj -> C:\Users\Leon\source\repos\fraction_14lz21\Debug\fraction_14awes.dll
